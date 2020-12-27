@@ -20,7 +20,7 @@
         "async-aws/core": "^1.5",
         "async-aws/sqs": "^1.0",
         "eliberty/symfony-messenger": "^3.4",
-        "symfony/service-contracts": "^1.1|^2"
+        "symfony/service-contracts": "^1.1|^2",
         "psr/log": "^1.0"
     },
     "require-dev": {
